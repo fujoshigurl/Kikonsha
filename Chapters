@@ -7,7 +7,7 @@
    "chapters":{
       "1":{
          "title":"Chapter 1",
-         "volume":"Volume 1",
+         "Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/mduzhBg/"
          },
@@ -15,7 +15,7 @@
       },
       "2":{
          "title":"Chapter 2",
-         "volume":"Volume 1",
+         ""Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/279Bfzz/"
          },
@@ -23,7 +23,7 @@
       },
       "3":{
          "title":"Chapter 3",
-         "volume":"Volume 1",
+         "Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/YFEWdG8/"
          },
@@ -31,7 +31,7 @@
       },
       "4":{
          "title":"Chapter 4",
-         "volume":"Volume 1",
+         "Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/3Fh7NND/"
          },
@@ -39,7 +39,7 @@
       },
       "5":{
          "title":"Chapter 5",
-         "volume":"Volume 1",
+         "Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/sUXqBrA/"
          },
@@ -47,7 +47,7 @@
       },
       "6":{
          "title":"Chapter 6 [END]",
-         "volume":"Volume 1",
+         "Volume 1",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/oLam47b/"
          },
@@ -55,7 +55,7 @@
       },
       "7":{
          "title":"Chapter 7",
-         "volume":"Volume 2",
+         "Volume 2",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/7o17vvs/"
          },
@@ -63,7 +63,7 @@
       },
       "8":{
          "title":"Chapter 8",
-         "volume":"Volume 2",
+         "Volume 2",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/FajKEsy/"
          },
@@ -71,7 +71,7 @@
       },
       "9":{
          "title":"Chapter 9",
-         "volume":"Volume 2",
+         "Volume 2",
          "groups":{
             "Sincr Scanlations":"/proxy/api/imgur/chapter/Kc4OLUk/"
          },
@@ -79,7 +79,7 @@
       },
       "10": {
          "title": "Chapter 10",
-         "volume": "Volume 2",
+         "Volume 2",
          "groups": {
            "Sincr Scanlations": "/proxy/api/imgur/chapter/ez56Kq5/"
       },
@@ -87,7 +87,7 @@
       },
       "11": {
          "title": "Chapter 11",
-         "volume": "Volume 2",
+         "Volume 2",
          "groups": {
             "Sincr Scanlations": "/proxy/api/imgur/chapter/rpUosDP/"
       },
@@ -95,7 +95,7 @@
       },
      "11.1": {
         "title": "Now I Have Things To Worry About",
-        "volume": "Volume 2",
+        "Volume 2",
         "groups": {
            "Sincr Scanlations": "/proxy/api/imgur/chapter/Tjg1Htk/"
       },
@@ -103,10 +103,11 @@
       },
      "11.2": {
       "title": "Lemon Sorbet [END]",
-      "volume": "Volume 2",
+      "Volume 2",
       "groups": {
         "Sincr Scanlations": "/proxy/api/imgur/chapter/khSf3iK/"
       },
       "last_updated": "1621605623"
-   }
+    }
+  }
 }
