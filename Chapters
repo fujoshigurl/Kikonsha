@@ -16,17 +16,6 @@ Mikado plans a business trip with co-workers to an onsen and stay for the night,
         "<group name>": "/proxy/api/imgur/chapter/<mduzhBg>/"
       },
       "last_updated": "1616368746"
-    },
-  }
-}
-"chapters": {
-    "<2>": {
-      "title": "<Chapter 2>",
-      "volume": "<1>",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<279Bfzz>/"
-      },
-      "last_updated": "1616368746"
     }
   }
 }
