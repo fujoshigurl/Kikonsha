@@ -55,7 +55,7 @@
     },
     "7": {
        "title":"Chapter 7",
-       "Volume 2",
+       "volume": "2",
        "groups": {
          "Sincr Scanlations":"/proxy/api/imgur/chapter/7o17vvs/"
       },
@@ -110,3 +110,4 @@
       "last_updated": "1621605623"
     }
   }
+}
