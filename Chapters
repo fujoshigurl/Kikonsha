@@ -52,12 +52,28 @@
         "Sincr Scanlations": "/proxy/api/imgur/chapter/oLam47b/"
       },
       "last_updated": "1616335223"
-       },
+    },
    "7": {
       "title": "Chapter 7",
       "volume": "Volume 2",
       "groups": {
         "Sincr Scanlations": "/proxy/api/imgur/chapter/7o17vvs/"
+      },
+      "last_updated": "1619013623"
+    },
+   "8": {
+      "title": "Chapter 8",
+      "volume": "Volume 2",
+      "groups": {
+        "Sincr Scanlations": "/proxy/api/imgur/chapter/FajKEsy/"
+      },
+      "last_updated": "1619013623"
+   },
+   "9": {
+      "title": "Chapter 9",
+      "volume": "Volume 2",
+      "groups": {
+        "Sincr Scanlations": "/proxy/api/imgur/chapter/Kc4OLUk/"
       },
       "last_updated": "1619013623"
     }
